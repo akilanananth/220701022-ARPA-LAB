@@ -1,0 +1,12 @@
+﻿{
+  "Name": "ACME System 1 - Log In - Opera",
+  "Type": "App",
+  "Id": "h7uDiXkoUUCSEatEQLDKjw",
+  "Reference": "dFpa4fcjxUuzRvV0FuvgaQ/h7uDiXkoUUCSEatEQLDKjw",
+  "Created": "2025-07-08T05:37:35.5027221Z",
+  "Updated": "2025-07-08T05:37:35.5027221Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

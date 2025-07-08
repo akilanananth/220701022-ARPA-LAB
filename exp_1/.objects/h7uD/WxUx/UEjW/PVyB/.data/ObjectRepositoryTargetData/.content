@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="89kf3L9Ynkqt5rxcww-GbA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="2a98957a-6698-40e1-8a53-10f0fd9b3cc7" CvElementArea="341, 563, 609, 45" CvType="InputBox" DesignTimeRectangle="344, 565, 606, 42" DesignTimeScaleFactor="1.25" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl id='password' tag='INPUT' type='password' class='form-control ' aaname='Password:' /&gt;" Guid="9388084f-dc94-48ab-b724-9248817a6140" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2a98957a-6698-40e1-8a53-10f0fd9b3cc7" CvTextArea="342, 536, 90, 16" CvTextArgument="Password:" CvType="Text" DesignTimeRectangle="344, 533, 89, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Password:' tag='LABEL' type='' class='' check:innerText='Password:' /&gt;" Guid="a6bf20dd-c895-4b66-a76b-d77208253b21" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="753f49f587c733f004995d7b095e031d.png" xmlns="">0g-T2wtkmskOmb0fn9Tp67w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

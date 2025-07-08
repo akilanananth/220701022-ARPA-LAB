@@ -1,0 +1,14 @@
+﻿{
+  "Name": "editable text Password",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Id": "PVyBjxD_tEi0wvndiP7P7A",
+  "Reference": "dFpa4fcjxUuzRvV0FuvgaQ/PVyBjxD_tEi0wvndiP7P7A",
+  "ParentRef": "dFpa4fcjxUuzRvV0FuvgaQ/UEjWEvnmDkuRtNibXcD9Xg",
+  "Created": "2025-07-08T05:46:51.5388741Z",
+  "Updated": "2025-07-08T05:46:51.5388741Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

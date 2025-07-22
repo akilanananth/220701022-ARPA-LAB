@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RTMDZszbvk6Pg3iURhmXmA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="2223f397-4aac-49ba-bbc0-f4a036455ab2" CvTextArea="351, 405, 72, 50" CvType="AnyWordGroup" DesignTimeRectangle="353, 393, 71, 75" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' type='' class='wob_t q8U8x' /&gt;" Guid="cc198e32-a019-4ea1-9dc6-7fe011c65634" ScopeSelectorArgument="&lt;html app='chrome.exe' title='chennai temperature - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2223f397-4aac-49ba-bbc0-f4a036455ab2" CvTextArea="430, 409, 25, 18" CvTextArgument="°C" CvType="Text" DesignTimeRectangle="432, 408, 22, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='°Celsius' aria-role='button' tag='SPAN' type='' class='wob_t' aaname='°C' check:innerText='°C' /&gt;" Guid="c6adf666-9800-43dc-b5fb-edb6992896f5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e8967febc03a85c4c1cfc92b4637167d.png" xmlns="">0aMwVgeTWrUCF-ParSK7PqQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

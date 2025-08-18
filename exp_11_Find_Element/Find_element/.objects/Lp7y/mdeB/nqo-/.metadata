@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome ACME System 1 - Dashboard",
+  "Type": "Screen",
+  "Id": "nqo-y5lFQEqbVhBcj5cEIA",
+  "Reference": "hbpbrYxhmkONHZeU4DquUw/nqo-y5lFQEqbVhBcj5cEIA",
+  "ParentRef": "hbpbrYxhmkONHZeU4DquUw/mdeBOm45yEGRSEku_pQz9Q",
+  "Created": "2025-08-18T07:48:05.234671Z",
+  "Updated": "2025-08-18T07:48:05.234671Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

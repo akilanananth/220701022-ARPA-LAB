@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AFl2JWlsUk6rattLiqgh3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" CVScreenId="481eeab5-c156-463b-9cd2-f7bd33968ab0" CvTextArea="540, 415, 668, 48" CvTextArgument="220701022@rajalakshmi.edu.in" CvType="Text" DesignTimeRectangle="546, 410, 662, 51" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='STRONG' type='' class='' aaname='220701022@rajalakshmi.edu.in' check:innerText='220701022@rajalakshmi.edu.in' /&gt;" Guid="8bf14f02-f88f-40f7-8612-3da89ad7d702" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="899ae54891cd5e281886ac9c33c5f122.png" xmlns="">0cvREi5xy4UeKAfu4L__c3g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

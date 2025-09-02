@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sEE1Cm4cfkSFWoTDNKpPlQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="d150333c-a7c4-4f41-83bf-927e9841efac" CvElementArea="1453, 1026, 111, 45" CvTextArea="1486, 1039, 45, 16" CvTextArgument="Done" CvType="Button" DesignTimeRectangle="1487, 1034, 44, 25" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='ow12' tag='SPAN' type='' class='VfPpkd-vQzf8d' /&gt;" Guid="647957df-5b40-4558-9010-ddff9c874db7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find Cheap Flights from Chennai - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d150333c-a7c4-4f41-83bf-927e9841efac" CvElementArea="1453, 1026, 111, 45" CvTextArea="1486, 1039, 45, 16" CvTextArgument="Done" CvType="Button" DesignTimeRectangle="1457, 1027, 104, 40" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Done. ' tag='BUTTON' type='' class='VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 z18xM rtW97 Q74FEc dAwNDc' aaname='Done' check:innerText='Done' /&gt;" Guid="abd3f213-adeb-42cc-ba07-c70544c06416" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cd9472e397b45252c805e45ab119dc22.png" xmlns="">0AfF_QiW4CkSEI6ppvlp9rw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

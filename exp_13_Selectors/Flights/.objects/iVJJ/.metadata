@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Find Cheap Flights Worldwide & Book Your Ticket - Google Flights",
+  "Type": "App",
+  "Id": "iVJJq3fCakmcm7YIVgThrg",
+  "Reference": "Y66ahfvUj0KVdv66X9jHbw/iVJJq3fCakmcm7YIVgThrg",
+  "Created": "2025-08-30T17:40:06.4048707Z",
+  "Updated": "2025-08-30T17:40:06.4048707Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

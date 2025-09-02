@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Round trip",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Um1cPiI8wkm0VXPUONWo2w",
+  "Reference": "Y66ahfvUj0KVdv66X9jHbw/Um1cPiI8wkm0VXPUONWo2w",
+  "ParentRef": "Y66ahfvUj0KVdv66X9jHbw/rqv41OiUZECp-kmB_iB7sA",
+  "Created": "2025-08-30T17:41:57.3291787Z",
+  "Updated": "2025-08-30T17:41:57.3291787Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
